@@ -25,8 +25,15 @@ const Demo = () => {
     setShowDailog(false);
   };
 
-  /** 對話框確認 */
+  // const doApi = async () => {
+  //   // const apiUrl = "http://api.aaa.com/use";
+  //   const response = await fetch(apiUrl).then((res) => res.json());
+  //
+  // };
+
+  /** 對話框確認 可執行api */
   const handleConfirm = () => {
+    // doApi()
     setRowData("");
     setShowDailog(false);
   };

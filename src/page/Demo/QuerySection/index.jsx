@@ -33,13 +33,25 @@ const QuerySection = (props) => {
     }));
   };
 
+  // const getApi = async () => {
+  //   // const apiUrl = "http://api.aaa.com/use";
+  //   const apiUrl = "http://localhost:3000/posts";
+  //   const data = await fetch(apiUrl).then((res) => res.json());
+  //   return data;
+  // };
+
   /** submut送出 */
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     const { type, action, dbName } = master;
     if (type === "" && action === "" && dbName === "") {
       return;
     }
+    // 下方 call api
+    // const data = await getApi();
+    // if (data && data.length !== 0) {
+    //   onSubmit(true);
+    // }
     onSubmit(true);
   };
 

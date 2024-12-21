@@ -20,3 +20,14 @@ Currently, two official plugins are available:
 ## bulid
 
 ##### npm run build
+
+## 檔案結構
+
+- index 程式進入點
+- App 應用程式開始
+- src
+  - components 元件
+  - page 頁面
+    - Demo 展示內容
+      - QuerySection 查詢調件
+      - ResultSection 顯示 Table
