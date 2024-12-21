@@ -19,6 +19,7 @@ const Dialog = (props) => {
         right: 0,
         bottom: 0,
         margin: "auto",
+        marginBottom: "30px",
         background: "rbga(0,0,0,.5)",
         display: "flex",
         flexDirection: "column",
