@@ -11,11 +11,11 @@ Currently, two official plugins are available:
 
 ## 快速開始
 
-###### cd demo
+- cd demo
 
-###### npm install
+- npm install
 
-###### npm run dev
+- npm run dev
 
 ## bulid
 
