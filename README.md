@@ -9,8 +9,14 @@ Currently, two official plugins are available:
 
 # demo
 
-## npm install
+##快速開始
 
-## cd atcion-type
+###### cd demo
 
-## npm run dev
+###### npm install
+
+###### npm run dev
+
+##bulid
+
+##### npm run build
