@@ -29,5 +29,13 @@ Currently, two official plugins are available:
   - components 元件
   - page 頁面
     - Demo 展示內容
-      - QuerySection 查詢調件
+      - QuerySection 查詢條件
       - ResultSection 顯示 Table
+
+## Api
+
+- submit button
+  - QuerySection 36 行有註解的地方 getApi()
+
+* choose button
+  Demo 28 有註解的地方 doApi()
