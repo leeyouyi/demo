@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # demo
 
-##快速開始
+## 快速開始
 
 ###### cd demo
 
@@ -17,6 +17,6 @@ Currently, two official plugins are available:
 
 ###### npm run dev
 
-##bulid
+## bulid
 
 ##### npm run build
