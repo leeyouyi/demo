@@ -38,4 +38,4 @@ Currently, two official plugins are available:
   - QuerySection 36 行有註解的地方 getApi()
 
 * choose button
-  Demo 28 有註解的地方 doApi()
+  - Demo 28 有註解的地方 doApi()
